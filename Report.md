@@ -12,7 +12,7 @@
 
 ## Описание процесса тестирования
 
-В процессе тестирования использовались следующие артефакты*:
+В процессе тестирования использовались следующие артефакты:
 * [Пополнение текущего баланса счета клиента с использованием переменной типа int (тест-кейс А1)](https://docs.google.com/spreadsheets/d/18jeDu_grEs8Mcw7meBlot36VsQ49zzrrne0QzmPWtA4/edit?usp=sharing)
 * [Пополнение текущего баланса счета клиента с использованием переменной типа long (тест-кейс А2)](https://docs.google.com/spreadsheets/d/18jeDu_grEs8Mcw7meBlot36VsQ49zzrrne0QzmPWtA4/edit?usp=sharing)
 
